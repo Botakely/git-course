@@ -1,5 +1,5 @@
 # git-course
 Git course
 Edit main
-Test feature branch
+Test feature branches
 Hope no conflict
